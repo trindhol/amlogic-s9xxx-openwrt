@@ -216,10 +216,9 @@ on:
         options:
           - ophub
           - angel
-          - yourname
-
+          - 2K
 env:
-  TZ: America/New_York
+  TZ: Asia/Jakarta
   IMAGEBUILDER_SH: config/imagebuilder/imagebuilder.sh
 
 jobs:
